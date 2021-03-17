@@ -288,8 +288,5 @@
 
 ![num](images/num10.png)
 
-## License
-
-MIT License. See the [LICENSE](LICENSE) file.
 
 **[⬆ top](#目录)**
